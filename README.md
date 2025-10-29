@@ -44,7 +44,7 @@ English · Malayalam · Tamil · Kannada · Hindi
 ### 🔗 Contact & links
 - Email: kuniyathakhil@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/akhil-kj-42b717195/  
-- Website / Projects: (include links to any repos or projects)
+- GitHub: https://github.com/AkilKj  
 
 ---
 
@@ -54,5 +54,5 @@ I’m open to IT infrastructure, support engineering, and network/admin roles. F
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkilKj&show_icons=true&theme=dark" alt="GitHub stats" />
 </p>
